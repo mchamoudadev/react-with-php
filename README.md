@@ -1,9 +1,9 @@
 # react-with-php
 
-<p>This project i have tried to connect my react app with php and mysql backend which has alot of comminuty.</p>
+<p>I have tried to connect my react app with php and mysql as a backend which has alot of comminuty.</p>
 <p>There is some challenges with this stack for example the Cors  Policy is quite challenging so i have googled and i come up with a solution</p>
 <p>if you watched my videos on php apis or enrolled my php for professionals course we have a nice api's that we can communicate smoothly, 
-  in react the we have two reigions</p>
+  in this project the we have two reigions</p>
   
   1. Backend 
   2. Frontend
@@ -30,8 +30,8 @@
       $_POST = json_decode(file_get_contents("php://input"), true);
 
    ```
-   To use this project you need to php server i'm using xampp which gives me mysql out of the box , when you have php and mysql the create new 
-   database and call you favorite name and the create a table with flour feilds id as an autoincrement, title , description and timestamp.
+   To use this project you need to have a php server , i'm using xampp which gives me mysql out of the box , when you have php and mysql the create new 
+   database and call you favorite name and then create a table with four feilds *****id as an autoincrement, title , description and timestamp.*****
    
    _**happy coding**_🔥.
    
