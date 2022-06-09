@@ -30,4 +30,8 @@
       $_POST = json_decode(file_get_contents("php://input"), true);
 
    ```
+   To use this project you need to php server i'm using xampp which gives me mysql out of the box , when you have php and mysql the create new 
+   database and call you favorite name and the create a table with flour feilds id as an autoincrement, title , description and timestamp.
+   
+   _**happy coding**_🔥.
    
